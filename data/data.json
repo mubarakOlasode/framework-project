@@ -1,0 +1,32 @@
+{
+  "Student1": {
+    "name": "Mubarak",
+    "course": "Computer Programming",
+    "semester": "fourth semester"
+  },
+  "Student2": {
+    "name": "Navnoor",
+    "course": "Computer Programming",
+    "semester": "fourth semester"
+  },
+  "Student3": {
+    "name": "Jagnoor",
+    "course": "Computer Programming",
+    "semester": "fourth semester"
+  },
+  "Student4": {
+    "name": "Gursimar",
+    "course": "Software development",
+    "semester": "fourth semester"
+  },
+  "Student5": {
+    "name": "Chanpreet",
+    "course": "Computer Programming",
+    "semester": "fourth semester"
+  },
+  "Student6": {
+    "name": "Maria",
+    "course": "Web Development",
+    "semester": "fourth semester"
+  }
+}
